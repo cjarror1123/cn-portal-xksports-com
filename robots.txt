@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cjarror1123.github.io/cn-portal-xksports-com/sitemap.xml
